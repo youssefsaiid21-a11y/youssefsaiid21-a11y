@@ -7,7 +7,9 @@ I build projects in applied AI and full-stack software, and explore simulation-b
 | Project | What to review | Current stage |
 | --- | --- | --- |
 | [KPI Tracking Dashboard](https://github.com/youssefsaiid21-a11y/kpi-tracking-dashboard) | Next.js dashboard, KPI calculations, attribution, anomaly detection and data synchronization | Development prototype · 230 tests passing |
+| [Imdath · Outlook Assistant](https://github.com/youssefsaiid21-a11y/imdath-outlook-assistant) | Outlook add-in, contextual drafting, Microsoft Graph and CRM adapters | Development prototype · 267 tests passing |
 | [NPE Reliability Research](https://github.com/youssefsaiid21-a11y/npe-reliability-research) | Reviewed experimental design and Python sample-size planner for model misspecification | Research protocol · experiments pending |
+| [Opportunity Finder](https://github.com/youssefsaiid21-a11y/opportunity-finder) | Async search/crawl pipeline, LLM classification/scoring and Teams digest formatting | Integration prototype |
 
 ## Reviewing my work
 
