@@ -1,15 +1,16 @@
 # Hi, I’m Youssef
 
-I build and explore projects in applied AI, full-stack applications and simulation-based inference.
+I build projects in applied AI and full-stack software, and explore simulation-based inference.
 
-## Featured work
+## Selected projects
 
-### [NPE Reliability Under Model Misspecification](https://github.com/youssefsaiid21-a11y/npe-reliability-research)
-
-A reviewed experimental design for testing frozen neural posterior estimators across Random Walk, behavioral SEIR and Generalized Bass models. Includes a Python sample-size planner, protocol, review history and runtime assessment.
-
-**Current stage:** experimental design and planning; simulation and inference results are pending.
+| Project | What to review | Current stage |
+| --- | --- | --- |
+| [KPI Tracking Dashboard](https://github.com/youssefsaiid21-a11y/kpi-tracking-dashboard) | Next.js dashboard, KPI calculations, attribution, anomaly detection and data synchronization | Development prototype · 230 tests passing |
+| [NPE Reliability Research](https://github.com/youssefsaiid21-a11y/npe-reliability-research) | Reviewed experimental design and Python sample-size planner for model misspecification | Research protocol · experiments pending |
 
 ## Reviewing my work
 
-Project READMEs explain what is implemented, how to run the available code, and known limitations. Research plans and prototypes are labeled by their current stage.
+Each application README explains the implementation, local setup and limitations. `VALIDATION.md` records checks actually run and what remains unverified. The public applications are sanitized portfolio snapshots with fictional development configuration; operational histories are retained separately.
+
+The projects demonstrate implementation and research work at their stated stages. Live business results, completed research experiments and production readiness are not claimed.
